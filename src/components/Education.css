@@ -1,0 +1,15 @@
+.content-education{
+    border: 1px solid rgb(71, 69, 69);
+    padding: 15px;
+    border-radius: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+
+@media (max-width:750px){
+    .cont{
+        text-align: center;
+    }
+
+  }
